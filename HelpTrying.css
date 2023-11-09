@@ -1,3 +1,23 @@
 body {
-  background-image: linear-gradient(to bottom, white 15%, c4ff7e 25%, white 5%, 371255 25%, white 15%)
+  background-image: linear-gradient(to bottom, white 10%, c4ff7e 7.5%, white 3%, 371255 25%, white 15%)
+}
+.Title {
+  font color = black
+  font size = 65px
+}
+.heading 1 {
+  font color = black
+  font size = 35px
+}
+.description 1 {
+  font color = black
+  font size = 20px
+}
+.heading 2 {
+  font color = white
+  font size = 35px
+}
+.description 2 {
+  font color = white
+  font size = 20px
 }
