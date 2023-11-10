@@ -1,23 +1,28 @@
 body {
   background-image: linear-gradient(to bottom, white 10%, c4ff7e 7.5%, white 3%, 371255 25%, white 15%)
 }
-.Title {
-  font color = black
-  font size = 65px
+.t {
+  color: white;
+  font-size: 65px;
+  background-color: black
 }
-.heading 1 {
-  font color = black
-  font size = 35px
+.h1 {
+  color: white;
+  font-size: 35px;
+  background-color: SlateBlue
 }
-.description 1 {
-  font color = black
-  font size = 20px
+.d1 {
+  color: white;
+  font-size: 20px;
+  background-color: SlateBlue
 }
-.heading 2 {
-  font color = white
-  font size = 35px
+.h2 {
+  color: white;
+  font-size: 35px;
+  background-color: Blurple
 }
-.description 2 {
-  font color = white
-  font size = 20px
+.d2 {
+  color: white;
+  font-size: 20px;
+  background-color: Blurple
 }
